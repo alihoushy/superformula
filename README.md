@@ -1,0 +1,1 @@
+Implementation of super formula with Python and generate image from each one.
